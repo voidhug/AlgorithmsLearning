@@ -8,7 +8,7 @@
 
 /*
     拓扑排序
-    O(V + E)
+    O(|V| + |E|)
  */
 
 #include <iostream>
