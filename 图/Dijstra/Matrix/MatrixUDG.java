@@ -20,7 +20,7 @@ public class MatrixUDG {
         // 输入"顶点数"和"边数"
         System.out.print("input vertex number：");
         int vlen = readInt();
-        System.out.print("input edge number");
+        System.out.print("input edge number：");
         int elen = readInt();
 
         if (vlen < 1 || elen < 1 || (elen > (vlen * (vlen - 1)))) {
@@ -207,6 +207,8 @@ public class MatrixUDG {
        };
        MatrixUDG pG;
 
+       // 用户输入数据
+       // pG = new MatrixUDG();
        // 采用已有的图
        pG = new MatrixUDG(vexs, matrix);
 
