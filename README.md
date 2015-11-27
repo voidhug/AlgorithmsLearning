@@ -12,7 +12,7 @@
         - [x] 无权最短路径（Java）
         - [x] Dijkstra邻接矩阵版（Java）
 - [ ] 排序
-	- [x] Quick Sort
+	- [x] Quick Sort（C++）
 
 
 
