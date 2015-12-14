@@ -13,6 +13,9 @@
         - [x] Dijkstra邻接矩阵版（Java）
 - [ ] 排序
 	- [x] Quick Sort（C++）
+- [ ] 查找
+ 	- [ ] 字符串查找
+ 		- [x] KMP算法 	
 
 
 
