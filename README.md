@@ -1,5 +1,9 @@
 # AlgorithmsLearning
-### 简介
+<<<<<<< HEAD
+#### 简介
+=======
+## 简介
+>>>>>>> bec2d04e8a7b1a9478897656db181e4abc58b479
 数据结构与算法学习
 
 所有代码经过测试，有问题请联系OrangeChengAB@Outlook.com。
@@ -13,6 +17,9 @@
         - [x] Dijkstra邻接矩阵版（Java）
 - [ ] 排序
 	- [x] Quick Sort（C++）
+- [ ] 查找
+ 	- [ ] 字符串查找
+ 		- [x] KMP算法 	
 
 
 

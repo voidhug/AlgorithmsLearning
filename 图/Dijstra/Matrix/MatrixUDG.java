@@ -64,7 +64,7 @@ public class MatrixUDG {
             }
 
             mMatrix[p1][p2] = weight;
-            mMatrix[p2][p1] = weight;
+//            mMatrix[p2][p1] = weight;
         }
     }
 
