@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f8bbc61-41c5-4b6d-ba42-ec3152022c00" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LeetCode/Python/.idea/workspace.xml" afterPath="$PROJECT_DIR$/LeetCode/Python/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/待整理.md" afterPath="$PROJECT_DIR$/待整理.md" />
-    </list>
+    <list default="true" id="0f8bbc61-41c5-4b6d-ba42-ec3152022c00" name="Default" comment="" />
     <ignored path="AlgorithmsLearning.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -41,8 +38,8 @@
       <file leaf-file-name="栈、队列、并查集、哈希表.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/栈、队列、并查集、哈希表.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.25943395" vertical-offset="0" max-vertical-offset="636">
-              <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+            <state vertical-scroll-proportion="0.094339624" vertical-offset="0" max-vertical-offset="636">
+              <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -148,8 +145,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="538" />
-    <option name="y" value="194" />
+    <option name="x" value="449" />
+    <option name="y" value="100" />
     <option name="width" value="1027" />
     <option name="height" value="812" />
   </component>
@@ -408,7 +405,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="538" y="194" width="1027" height="812" extended-state="0" />
+    <frame x="449" y="100" width="1027" height="812" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -539,8 +536,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/栈、队列、并查集、哈希表.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25943395" vertical-offset="0" max-vertical-offset="636">
-          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        <state vertical-scroll-proportion="0.094339624" vertical-offset="0" max-vertical-offset="636">
+          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
           <folding />
         </state>
       </provider>
