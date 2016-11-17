@@ -60,4 +60,6 @@ void CUnionFindSet::Union(int i, int j) {
     }
 }
 
+
+
 #endif //UNION_FIND2_CUNIONFINDSET_H
